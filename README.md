@@ -8,10 +8,14 @@ PySpark was used to perform ETL on available [insert product type here] reviews 
 ## Results
 bulleted list that addresses the three questions for unpaid and paid program reviews
 
+![image_name](https://github.com/Christopheremorgan/MechaCar_Statistical_Analysis/blob/main/LinRegressScreenshot.png)
+
+
 ## Summary
 The summary states whether or not there is bias, and the results support this statement
 An additional analysis is recommended to support the statement
 
 ## Data Files
-Amazon_Reviews_ETL.ipynb
-Vine_Review_Analysis.ipynb
+[Amazon_Reviews_ETL.ipynb](https://github.com/Christopheremorgan/Amazon_Vine_Analysis/blob/main/Amazon_Reviews_ETL.ipynb)
+
+[Vine_Review_Analysis.ipynb]
